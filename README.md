@@ -1,3 +1,8 @@
+# morrious.github.io
+
+This is just the publicly accessible github repo for morrisjam.es. Base template is from CoreUI (below)
+
+
 [![@coreui coreui](https://img.shields.io/badge/@coreui%20-coreui-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)
 [![npm package][npm-coreui-badge]][npm-coreui]
 [![NPM downloads][npm-coreui-download]][npm-coreui]  
